@@ -1,0 +1,5 @@
+{
+  "name": "Audio Transcriber & Synthesizer",
+  "description": "Upload an audio file to generate a transcript, and then synthesize that transcript into new spoken audio using Gemini AI.",
+  "requestFramePermissions": []
+}
